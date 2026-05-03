@@ -16,6 +16,10 @@ text-align: center;
 color: #1d2d75;
 }
 
+img {
+    display: block;
+    margin: auto;
+}
 
 body {
 background-color: #ACD3FF;
